@@ -1,0 +1,10 @@
+/* Leaflet haritasının kapsayıcısının boyutu */
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+}
+
+body {
+    background-color: #f8f9fa; /* Hafif gri arka plan */
+}
